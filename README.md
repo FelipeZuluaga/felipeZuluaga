@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Felipe <img height="40" src="https://i.pinimg.com/originals/09/c3/e6/09c3e641f5c6987a649631e8b8f96f34.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center">A passionate DevOps -- Software Engineer from Colombia</h3>
 
 - 🔭 I’m currently working on my **DevOps -- Software Engineer**
 
