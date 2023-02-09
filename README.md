@@ -11,13 +11,6 @@
 
 - ⚡ What I like to do: **I really like soccer and music. I am passionate about coding and everything that has to do with computers.....**
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andres-felipe-zuluaga-00b805188/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipezuluaganio02@gmail.com)
-  
-</div>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -50,6 +43,3 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeZuluaga&theme=react&layout=compact" />
 </p>
 
-------
-
-[FelipeZuluaga](https://github.com/FelipeZuluaga)
