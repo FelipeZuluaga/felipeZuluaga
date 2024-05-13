@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres Felipe <img height="40" src="https://i.pinimg.com/originals/09/c3/e6/09c3e641f5c6987a649631e8b8f96f34.gif"></h1>
 <h3 align="center">A passionate DevOps -- Software Engineer from Colombia</h3>
 
-- 🔭 I’m currently working on my **DevOps -- Software Engineer**
+- 🔭 I’m currently working on my **ESPECIALISTA QA (AUTOMATIZACIÓN)**
 
-- 🌱 I’m currently learning **Python,HTML5,Java,NodeJs,Javascript**
+- 🌱 I’m currently learning **Pruebas Automatizadas,Pruebas End-to-End (e2e),Selenium,Cucumber,Cypress,Postman,Node.js,Java,Webdriver IO,ACIS Framework,Mockito,JUnit,Jest**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
