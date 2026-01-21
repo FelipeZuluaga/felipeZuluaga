@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner Andres Felipe Zuluaga" />
-</p>
-
 # 👋 Hi, I'm Andres Felipe Zuluaga  
 
 🚀 Software Engineer | Web Developer | QA Automation | Data Scientist  
