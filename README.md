@@ -24,12 +24,12 @@ Me apasiona construir soluciones digitales eficientes, escalables y bien diseña
 - React  
 - Node.js  
 - Java  
-- Spring Boot  
+- Python  
 
 ### Automatización y QA
 - Selenium  
 - Cypress  
-- Playwright  
+- WebdriverIOS  
 - Postman  
 - JUnit  
 - Cucumber  
